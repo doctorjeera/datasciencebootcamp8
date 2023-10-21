@@ -5,10 +5,11 @@ my data portfolio
 
 ## heading2
 
--intro to data science
--Spreadsheets
--databases
--R program
+- intro to data science
+- Spreadsheets
+- databases
+- R program
+- 
 
 
 
