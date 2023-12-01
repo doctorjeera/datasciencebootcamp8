@@ -11,7 +11,7 @@ my data portfolio
 - R program
 - 
 
-
+you can find me with. www.linkedin.com/in/doctorjeera-nonthaburi-568256286
 
 
 
